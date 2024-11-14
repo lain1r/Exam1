@@ -9,7 +9,6 @@ public class Task_4 {
         int paym;
         int month;
         double overpaym;
-        double f_overpaym;
         Scanner sc = new Scanner(System.in);
         System.out.println("Введие сумму кредита");
         credit = sc.nextInt();

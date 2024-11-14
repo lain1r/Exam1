@@ -2,7 +2,7 @@ package variant_22;
 
 import java.util.Scanner;
 
-public class task_1 {
+public class Task_1 {
     public static void main(String[] args) {
         int num;
         Scanner sc = new Scanner(System.in);
@@ -13,10 +13,10 @@ public class task_1 {
                 System.out.println("Это и моё счастливое число!!!");
                 break;
             case (13):
-                System.out.println("это несчастливое число=(");
+                System.out.println("это несчастливое число :_(");
                 break;
             case (24):
-                System.out.println("это несчастливое число=(");
+                System.out.println("это несчастливое число :_(");
                 break;
             default:
                 System.out.println("число "+num+ " ваше личное счастливое число!!!");
